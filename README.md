@@ -1,2 +1,0 @@
-# ChartBed
-图床
